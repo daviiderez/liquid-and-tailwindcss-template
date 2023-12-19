@@ -1,0 +1,15 @@
+{
+  "name": "liquid-and-tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "watch-css": "npx tailwindcss -i ./style.css -o ./theme/assets/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.7"
+  }
+}
